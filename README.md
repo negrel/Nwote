@@ -29,7 +29,7 @@ Supported features :
 
 ### Release
 Coming soon !
-![app picture](https://github.com/Nergel3/Nwote/raw/master/resources/banner.png)
+![app picture](https://github.com/Nergel3/Nwote/raw/master/resources/screenshot.png)
 
 ### :ballot_box_with_check: TODO
 The app is still in development so some features may not work.
