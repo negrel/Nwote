@@ -4,7 +4,7 @@
 Nwote is a **PWA** to take note on mobile (mobile first design). I've recently lost the code so if anyone got a clone or anything else of the source code, please send it to me !
 
 | Home | Editor |
-| ![Home screenshot](https://github.com/Nergel3/Nwote/blob/master/resources/screenshot1.png) | ![Editor screenshot](https://github.com/Nergel3/Nwote/blob/master/resources/screenshot2.png) |
+| ![Home screenshot](https://raw.githubusercontent.com/Nergel3/Nwote/master/resources/screenshot1.jpg) | ![Editor screenshot](https://raw.githubusercontent.com/Nergel3/Nwote/master/resources/screenshot2.jpg) |
 
 Nwote v1.0.0 is build with the following awesome technologies :
 * Progressive Web App
